@@ -1,3 +1,4 @@
 # Space shooter game
-## Initial commit 
-## Setup camera, playerBP, gameModeBP
+## 1-Initial commit 
+## 2-Setup camera, playerBP, gameModeBP
+## 3-Setup player projectile
